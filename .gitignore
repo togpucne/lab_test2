@@ -1,0 +1,19 @@
+# Thư mục node_modules
+node_modules/
+
+# File môi trường
+.env
+
+# File log
+*.log
+
+# Thư mục cache, tạm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.DS_Store
+
+# Thư mục build (nếu có)
+dist/
+build/
